@@ -3,14 +3,11 @@ owner: tpxGeo # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: CreadPag
-    url: https://www.creadhack.com
+  - name: Tpx GT
+    url: https://tpx.gt/
   - name: TPX.MX
     url: https://tpx.mx
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Twitter
-    url: https://twitter.com
+
 assignees:
   - tpxGeo
 
@@ -22,13 +19,9 @@ status-website:
   logoUrl: https://tpx.mx/0xFiles/files/2017/08/icon_fav-90x90.png
   favicon: https://tpx.mx/0xFiles/files/2017/08/icon_fav-90x90.png
   name: Website Status
-  introTitle: "**TPX** Sec."
+  introTitle: "**TPX** status de dominios"
   introMessage: TPX STATUS
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
